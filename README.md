@@ -7,12 +7,13 @@ Soy desarrollador web Full Stack, con conocimiento en diferentes tecnologías ba
 
 Poseo más de 2 años de experiencia liderando equipos de trabajo en áreas de producción, enfocado en la búsqueda de estrategias de mejora continua y gestión de proyectos. También, cuento con experiencia por más de 4 años en el manejo del ERP Microsoft Dynamics AX.
 
-Contactame
+
+Contáctame
 
 ![image](https://user-images.githubusercontent.com/81908845/190063485-c591bede-f6f7-4449-8d47-31d97784be97.png)
-linkedin.com/in/carlos-cruz-870119204
+ https://www.linkedin.com/in/carlos-cruz-870119204
 
 
 ![image](https://user-images.githubusercontent.com/81908845/190063500-e6c779d3-6874-459a-8094-cb52fc800bfe.png)
-carturo99@gmail.com
+ carturo99@gmail.com
 
