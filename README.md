@@ -3,12 +3,10 @@
 
 
 
-Soy desarrollador web Full Stack, con conocimiento en diferentes tecnologías back end como Node, Sequelize, bases de datos y tecnologías front end como, React y Redux. Cuento con experiencia en el desarrollo de una aplicación web creada de forma grupal para el bootcamp de Soy Henry, y el desarrollo de un proyecto individual para el mismo. Curso 4to semestre de ingeniería de Software en la corporación universitaria Iberoamericana.
+Ingeniero de Software con experiencia en desarrollo de aplicaciones empresariales y sistemas de gestión de personal, enfocado en el desarrollo backend y arquitectura de servicios. Cuento con más de 3 años de experiencia profesional participando en el desarrollo de plataformas utilizadas en múltiples países para la gestión de turnos laborales, control de acceso a áreas restringidas y generación de reportes para procesos de nómina.
 
-Poseo más de 2 años de experiencia liderando equipos de trabajo en áreas de producción, enfocado en la búsqueda de estrategias de mejora continua y gestión de proyectos. También, cuento con experiencia por más de 4 años en el manejo del ERP Microsoft Dynamics AX.
+Experiencia en diseño de APIs REST, optimización de consultas SQL, arquitectura de sistemas, integración de servicios externos y desarrollo de aplicaciones empresariales escalables.
 
-
-Contáctame
 
 ![image](https://user-images.githubusercontent.com/81908845/190063485-c591bede-f6f7-4449-8d47-31d97784be97.png)
  https://www.linkedin.com/in/carlos-cruz-870119204
